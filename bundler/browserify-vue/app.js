@@ -1,4 +1,4 @@
-const Vue = require('../lib/vue.common.js')
+const Vue = require('../../lib/vue.common.js')
 new Vue({
 	el:'#content',
 	data:{
